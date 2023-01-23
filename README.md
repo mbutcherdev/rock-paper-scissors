@@ -17,7 +17,7 @@ Played in console, best of 5 (first to 3 wins!)
 ### Installing
 
 ```
-git clone https://github.com/mbutcherdev/python-projects/rock-paper-scissors
+git clone https://github.com/mbutcherdev/rock-paper-scissors
 ```
 
 ### Executing program
